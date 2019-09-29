@@ -23,7 +23,7 @@ nav {
   justify-content: flex-end;
 }
 
-a {
+nav a {
   padding: 0 20px;
   margin: 0;
 }
